@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/mustafa-can-ince/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+<a img src="https://komarev.com/ghpvc/?username=MustafaCanInce&style=flat-square&color=blue" alt="">
+   </a>
 </div>
 
 - 👋 Hi, I’m @Mustafa Can İnce
