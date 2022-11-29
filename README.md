@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mustafa-can-ince/" target="_blank">>
+  <a href="https://www.linkedin.com/in/mustafa-can-ince/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=MustafaCanInce&style=flat-square&color=blue" alt=""/>
