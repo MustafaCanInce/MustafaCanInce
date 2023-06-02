@@ -20,7 +20,7 @@
 <a href="https://react.dev/"target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" wdith= "40" height="40"/> </a></p>
 
 
-https://react.dev/
+
   
   
 ### :fire: My Stats :
