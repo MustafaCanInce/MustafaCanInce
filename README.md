@@ -27,7 +27,7 @@
   <a href="https://react.dev/"target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" wdith= "40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width= "40" height="40"/> </a>
   <a href="https://angular.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt= "angular" width= "40" height="40"/> </a>
-  <a href="https://tailwindcss.com/"> <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt= "tailwindcss" width= "40" height="40"/> </a>
+  <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt= "tailwindcss" width= "40" height="40"/> </a>
 </p>
 
 
